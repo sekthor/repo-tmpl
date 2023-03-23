@@ -1,0 +1,5 @@
+site_name: test
+theme: 
+  name: material
+  palette:
+    primary: brown

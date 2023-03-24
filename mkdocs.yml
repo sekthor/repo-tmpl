@@ -12,10 +12,11 @@ theme:
   features:
     # links on pages to view/edit md source on github
     - content.action.edit
+    - content.action.view
   
-  icon:
+  #icon:
     # button to edit a page
-    edit: material/pencil 
+    #edit: material/pencil 
 
     # button to view md source of page
-    view: material/eye
+    #view: material/eye

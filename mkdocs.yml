@@ -25,6 +25,11 @@ theme:
     - content.action.edit
     - content.action.view
   
+  markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+  
   #icon:
     # button to edit a page
     #edit: material/pencil 

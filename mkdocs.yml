@@ -2,8 +2,20 @@ site_name: test
 
 repo_name: sekthor/repo-tmpl
 repo_url: https://github.com/sekthor/repo-tmpl
+edit_uri: edit/main/docs/
 
 theme: 
   name: material
   palette:
     primary: brown
+  
+  features:
+    # links on pages to view/edit md source on github
+    - content.action.edit
+  
+  icon:
+    # button to edit a page
+    edit: material/pencil 
+
+    # button to view md source of page
+    view: material/eye

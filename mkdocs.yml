@@ -1,4 +1,8 @@
 site_name: test
+
+repo_name: sekthor/repo-tmpl
+repo_url: https://github.com/sekthor/repo-tmpl
+
 theme: 
   name: material
   palette:

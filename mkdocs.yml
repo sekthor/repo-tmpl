@@ -25,14 +25,7 @@ theme:
     - content.action.edit
     - content.action.view
   
-  markdown_extensions:
-    - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-  
-  #icon:
-    # button to edit a page
-    #edit: material/pencil 
-
-    # button to view md source of page
-    #view: material/eye
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

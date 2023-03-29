@@ -6,14 +6,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Nulla et euismod nulla.
 Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
-!!! warning "Linux users beware!"
-
-    If you are on a linux system, you might have to perform some extra steps.
-    Make sure you have packages xyz, abc & efg installed.
-    These are crutial dependencies. 
-
-!!! note "Phasellus posuere in sem ut cursus"
+!!! note
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+
+!!! warning "non-systemd users beware"
+
+    There is really no reason not to be using `systemd` anymore, right?
